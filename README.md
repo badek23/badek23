@@ -1,9 +1,8 @@
-# Hi, I'm Kate Bade!
-
+# <p align="center">Hi, I'm Kate Bade!</p> 
 
 
 ## About Me
-- Madrid, Spain | [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/katherinebade)
+- Data Scientist | Madrid, Spain | [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/katherinebade)
 - I am a data professional with several years of professional experience as a data analyst, looking to pivot into data science. I have a unique combination of technical expertise and strategic mindset. I deeply enjoy solving data puzzles utilizing creativity and integrating business context, and I am experienced in operating in international environments and working across cultures. 
 
 ## Technical Skills
