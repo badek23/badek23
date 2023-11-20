@@ -19,7 +19,7 @@
 ### Customer Segmentation and Metric Visualization
 - [Brief description of the project, e.g., sentiment analysis, text classification]
 - **Tech Stack:** SQL, Tableau
-- **GitHub Repo:** [Link to the GitHub repository]
+- **GitHub Repo:** <a href="https://github.com/badek23/projects/tree/main/CustomerSegmentation">Click here to learn more.</a>
   
 ### OpenAI API
 - This OpenAI API is a proof of concept for future university courses that are AI-driven.
