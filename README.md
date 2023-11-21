@@ -11,9 +11,9 @@
 ## Technical Skills
 - **Programming Languages:** 🐍Python | 💽SQL
 - **Frameworks and Libraries:** 🐼pandas | 🧮numpy | 🧠sci-kit learn | 🤖openai | 🎨streamlit | 📈matplotlib
-- **Databases:** 🗄️Vertica | 🛢️DB2
+- **Tools and Technologies:** 📒Jupyter | 🔄Apache NiFi | 🐬MySQL Workbench
 - **Data Visualization:** 📊Tableau
-- **Tools and Technologies:** 📒Jupyter | 🔄Apache NiFi
+- **Database Management Systems:** 🗄️Vertica | 🛢️DB2 | 🖥️MySQL
 
 ## Projects
 ### Customer Segmentation and Metric Visualization
