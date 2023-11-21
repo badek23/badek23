@@ -9,8 +9,8 @@
 - I am a data professional with several years of professional experience as a data analyst, looking to pivot into data science. I have a unique combination of technical expertise and strategic mindset. I deeply enjoy solving data puzzles utilizing creativity and integrating business context, and I am experienced in operating in international environments and working across cultures. 
 
 ## Technical Skills
-- **Programming Languages:** 🐍Python | 💽SQL
-- **Frameworks and Libraries:** 🐼pandas | 🧮numpy | 🧠sci-kit learn | 🤖openai | 🎨streamlit | 📈matplotlib
+- **Languages:** 🐍Python | 💽SQL
+- **Libraries:** 🐼pandas | 🧮numpy | 🧠sci-kit learn | 🤖openai | 🎨streamlit | 📈matplotlib
 - **Tools and Technologies:** 📒Jupyter | 🔄Apache NiFi | 🐬MySQL Workbench
 - **Data Visualization:** 📊Tableau
 - **Database Management Systems:** 🗄️Vertica | 🛢️DB2 | 🖥️MySQL
