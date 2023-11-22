@@ -17,7 +17,7 @@
 
 ## Projects
 ### Customer Segmentation and Metric Visualization
-- I built this project as a data analyst in a professional setting. I analyzed data sourced from throughout the company and created flexible dashboard visuals for use by senior stakeholders.
+- I built this project as a data analyst in a professional setting. I analyzed data sourced from throughout the company to create a priority customer segmentation, and I then created flexible dashboard visuals for use by senior stakeholders.
 - **Tech Stack:** SQL, Tableau
 - **GitHub Repo:** <a href="https://github.com/badek23/projects/tree/main/CustomerSegmentation">Click here to learn more.</a>
   
