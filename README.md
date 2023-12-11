@@ -10,7 +10,7 @@
 
 ## Technical Skills
 - **Languages:** 🐍Python | 💽SQL
-- **Libraries:** 🐼pandas | 🧮numpy | 🧠sci-kit learn | 🤖openai | 🎨streamlit | 📈matplotlib
+- **Libraries:** 🐼pandas | 🧮numpy | 🧠sci-kit learn | 🤖openai | 📈matplotlib | 📉plotly | 🌊seaborn | 🎨streamlit
 - **Tools and Technologies:** 📒Jupyter | 🔄Apache NiFi | 🐬MySQL Workbench
 - **Data Visualization:** 📊Tableau
 - **Database Management Systems:** 🗄️Vertica | 🛢️DB2 | 🖥️MySQL
