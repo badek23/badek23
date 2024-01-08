@@ -11,7 +11,7 @@
 ## Technical Skills
 - **Languages:** 🐍Python | 💽SQL
 - **Libraries:** 🐼pandas | 🧮numpy | 🧠sci-kit learn | 🤖openai | 📈matplotlib | 📉plotly | 🌊seaborn | 🎨streamlit
-- **Tools and Technologies:** 📒Jupyter | 🔄Apache NiFi | 🐬MySQL Workbench | 🛠️DBeaver | 🔍Google Colab
+- **Tools and Technologies:** 📒Jupyter | 🔄Apache NiFi | ✨Apache Spark | 🐬MySQL Workbench | 🛠️DBeaver | 🔍Google Colab 
 - **Data Visualization:** 📊Tableau
 - **Database Management Systems:** 🗄️Vertica | 🛢️DB2 | 🖥️MySQL
 
