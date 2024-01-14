@@ -19,12 +19,12 @@
 ### Customer Segmentation and Metric Visualization
 - I built this project as a data analyst in a professional setting. I analyzed data sourced from throughout the company to create a priority customer segmentation, and I then created flexible dashboard visuals for use by senior stakeholders.
 - **Tech Stack:** SQL, Tableau
-- **GitHub Repo:** <a href="https://github.com/badek23/projects/tree/main/CustomerSegmentation">Click here to learn more.</a>
+- **GitHub Repo:** <a href="https://github.com/badek23/Customer-Segmentation">Click here to learn more.</a>
   
 ### OpenAI API
 - This OpenAI API is a proof of concept for future university courses that are AI-driven.
 - **Tech Stack:** Python (openai, streamlit)
-- **GitHub Repo:** <a href="https://github.com/badek23/projects/tree/main/OpenAIAPI">Click here to learn more.</a>
+- **GitHub Repo:** <a href="https://github.com/badek23/Open-AI-API">Click here to learn more.</a>
 
 
 ## Education
