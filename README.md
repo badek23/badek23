@@ -16,6 +16,11 @@
 - **Database Management Systems:** 🗄️Vertica | 🛢️DB2 | 🖥️MySQL
 
 ## Sample Projects
+### Neural Network to Recognize Handwritten Numbers
+- I built this project in collaboration with a classmate, inspired by a Neural Networks workshop hosted by Google Developer Student Clubs. Building off the base code from the workshop, we built a neural network that does not utilize any ML libraries and that can accept a hand-drawn number and predict what number is depicted.
+- **Tech Stack:** Python (pandas, numpy, matplotlib, pickle, streamlit, PIL)
+- **GitHub Repo:** <a href="https://github.com/badek23/HandwrittenNumbers">Click here to learn more.</a>
+
 ### Customer Segmentation and Metric Visualization
 - I built this project as a data analyst in a professional setting. I analyzed data sourced from throughout the company to create a priority customer segmentation, and I then created flexible dashboard visuals for use by senior stakeholders.
 - **Tech Stack:** SQL, Tableau
