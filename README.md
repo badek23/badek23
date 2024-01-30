@@ -10,15 +10,15 @@
 
 ## Technical Skills
 - **Languages:** 🐍Python | 💽SQL
-- **Libraries:** 🐼pandas | 🧮numpy | 🧠scikit-learn | 🤖openai | 📈matplotlib | 📉plotly | 🌊seaborn | 🎨streamlit
+- **Libraries:** 🐼pandas | 🧮numpy | 🧠scikit-learn | 🔷tensorflow | 🤖openai | 📈matplotlib | 📉plotly | 🌊seaborn | 🎨streamlit
 - **Tools and Technologies:** 📒Jupyter | 🔄Apache NiFi | ✨Apache Spark | 🐬MySQL Workbench | 🛠️DBeaver | 🔍Google Colab 
 - **Data Visualization:** 📊Tableau
 - **Database Management Systems:** 🗄️Vertica | 🛢️DB2 | 🖥️MySQL
 
 ## Sample Projects
 ### Neural Network to Recognize Handwritten Numbers
-- I built this project in collaboration with a classmate, inspired by a Neural Networks workshop hosted by Google Developer Student Clubs. Building off the base code from the workshop, we built a neural network that does not utilize any ML libraries and that can accept a hand-drawn number and predict what number is depicted.
-- **Tech Stack:** Python (pandas, numpy, matplotlib, pickle, streamlit, PIL)
+- I built this project in collaboration with a classmate, inspired by a Neural Networks workshop hosted by Google Developer Student Clubs. Building off the base code from the workshop, we built a neural network that does not utilize any ML libraries and that can accept a hand-drawn number and predict what number is depicted. We also remade this project using Tensorflow to test the accuracy and process.
+- **Tech Stack:** Python (tensorflow, pandas, numpy, matplotlib, pickle, streamlit, PIL)
 - **GitHub Repo:** <a href="https://github.com/badek23/HandwrittenNumbers">Click here to learn more.</a>
 
 ### Customer Segmentation and Metric Visualization
