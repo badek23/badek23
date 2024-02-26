@@ -13,7 +13,7 @@
 - **Libraries:** 🐼pandas | 🧮numpy | 🧠scikit-learn | 🔷tensorflow | 🤖openai | 📈matplotlib | 📉plotly | 🌊seaborn | 🎨streamlit
 - **Tools and Technologies:** 📒Jupyter | 🔄Apache NiFi | ✨Apache Spark | 🐬MySQL Workbench | 🛠️DBeaver | 🔍Google Colab 
 - **Data Visualization:** 📊Tableau | 👀Looker
-- **Database Management Systems:** 🗄️Vertica | 🛢️DB2 | 🖥️MySQL
+- **Database Management Systems:** 🗄️Vertica | 🛢️DB2 | 🖥️MySQL | 🍃MongoDB
 
 ## Sample Projects
 ### Neural Network to Recognize Handwritten Numbers
