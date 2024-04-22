@@ -37,6 +37,7 @@
 - 🌍 Bachelor of Arts, International Studies, Boston College 🎓
 
 ## Certifications
+- AWS Cloud Practioner (in progress)
 - [IBM Python for Data Science](https://www.credly.com/badges/93cf8447-a7e3-423e-a2a6-83aa00cbbe58/public_url)
-
+- IE Foundations of Sustainability
 
