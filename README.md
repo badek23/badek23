@@ -31,6 +31,10 @@
 - **Tech Stack:** Python (openai, streamlit)
 - **GitHub Repo:** <a href="https://github.com/badek23/Open-AI-API">Click here to learn more.</a>
 
+### Volcanic Eruptions Visualization
+- This dashboard utilizes visualization best practices (explained in the grey boxes) to visualize data on volcanic eruptions during the Holocene Period.
+- **Tech Stack:** Looker Studio
+- **Link:** <a href="https://lookerstudio.google.com/reporting/79b55964-9e3a-476d-a7cb-8263597a3344">Click here to learn more.</a>
 
 ## Education
 - 🔍 Master of Science, Business Analytics and Big Data, IE University 🎓
