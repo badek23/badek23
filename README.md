@@ -1,5 +1,5 @@
 # <p align="center">Hi, I'm Kate Bade! 👋
-<p align="center">Data Scientist | Madrid, Spain | <a href="https://www.linkedin.com/in/katherinebade">
+<p align="center">Data Scientist | Madrid, Spain | <a href="https://badek23.github.io/">Project Portfolio</a> | <a href="https://www.linkedin.com/in/katherinebade">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-blue" alt="Button Text">
 </a>
 </p> 
