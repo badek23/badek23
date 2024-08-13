@@ -12,7 +12,7 @@
 - **Languages:** 🐍Python | 💽SQL
 - **Libraries:** 🐼pandas | 🧮numpy | 🧠scikit-learn | 🔷TensorFlow | 🧪PyCaret | 🤖openai | 📈matplotlib | 📉plotly | 🌊seaborn | 🎨streamlit | 🔧joblib
 - **Tools and Technologies:** 📒Jupyter | 🔄Apache NiFi | ✨Apache Spark | 🐬MySQL Workbench | 🛠️DBeaver | 🔍Google Colab 
-- **Data Visualization:** 📊Tableau | 👀Looker
+- **Data Visualization:** 📊Tableau | 👀Looker | ⚡PowerBI
 - **Database Management Systems:** 🗄️Vertica | 🛢️DB2 | 🖥️MySQL | 🍃MongoDB
 
 ## Sample Projects
