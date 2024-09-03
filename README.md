@@ -16,7 +16,7 @@ I'm a data scientist with the unique combination of a proven technical skillset 
 - **Database Management Systems:** 🗄️Vertica | 🛢️DB2 | 🖥️MySQL | 🍃MongoDB
 
 ## Sample Projects
-To take a look at my projects, head on over to my <a href="https://badek23.github.io/">project portfolio</a>. There, my projects are organized, described, and they include links to their GitHub repos as well as any other relevant products (reports, decks, etc).
+To take a look at my projects, head on over to my <a href="https://badek23.github.io/">project portfolio</a>. There, my projects are organized and described, and they include links to their GitHub repos as well as any other relevant products (reports, decks, etc).
 
 ## Education
 - 🔍 Master of Science, Business Analytics and Big Data, IE University 🎓
